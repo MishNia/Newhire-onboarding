@@ -36,3 +36,6 @@ Features demonstrated | Notes
     4. Go to a job posting in the recruit page of your Freshteam account. 
     5. Add a candidate and draft offer.
     6. Change the candidate's status from "Offered" to "Offer Accepted". Now the candidate is converted to a New Hire and you will be able to see the candidate in the `Onboarding` page. 
+    
+### References
+https://github.com/freshworks/marketplace-sample-apps
