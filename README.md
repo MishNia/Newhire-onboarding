@@ -1,6 +1,6 @@
 ## Freshteam Newhire-Onboarding-Invites
 
-This app assumes the host Freshworks product to be Freshteam, an employee engagement software.
+This app assumes that the host Freshworks product to be Freshteam, an employee engagement software.
 
 The app observes if new hire has been added and does the following operations:
 
